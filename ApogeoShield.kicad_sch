@@ -5,7 +5,7 @@
 	(uuid "1d67b07b-d997-41b7-9a0a-a4770aa9f862")
 	(paper "A4")
 	(title_block
-		(title "Nodo Arduino")
+		(title "ApogeoShield")
 		(date "2023-11-14")
 		(rev "1.1")
 		(company "Apogeo Space")
@@ -4156,7 +4156,7 @@
 		)
 		(uuid "fa8ddc16-a61b-4645-9b56-c3d21c9c7adb")
 	)
-	(text "1.0 - 31/10/2023 First version.\n1.1 - 14/11/2023 Added configuration of SS, RST and D0 pins via resistor placement.\n"
+	(text "1.0 - 31/10/2023 First version.\n1.1 - 14/11/2023 Added configuration of SS, RST and D0 pins via resistor placement.\n1.1b - 30/05/2023 Re-added Company logo (internal); added OSHW logo"
 		(exclude_from_sim no)
 		(at 21.59 113.03 0)
 		(effects
@@ -4588,7 +4588,7 @@
 			(uuid "c452a409-5e3f-4057-8424-99e79477d419")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR03")
 					(unit 1)
@@ -4655,7 +4655,7 @@
 			(uuid "e4351beb-9cf9-4561-971e-b6725929f007")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RS4")
 					(unit 1)
@@ -4722,7 +4722,7 @@
 			(uuid "33026cf4-58cd-4687-bdae-cfadf189ecfb")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RR2")
 					(unit 1)
@@ -4789,7 +4789,7 @@
 			(uuid "784114bf-0ff2-4a4a-b59f-cd0c925b6626")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RI2")
 					(unit 1)
@@ -4855,7 +4855,7 @@
 			(uuid "27c2b6d1-5e84-4d45-9b5d-c15127e36191")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR06")
 					(unit 1)
@@ -4924,7 +4924,7 @@
 			(uuid "3a04f43b-3eeb-4d97-8369-610bac96befb")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "R6")
 					(unit 1)
@@ -4991,7 +4991,7 @@
 			(uuid "17efa2e2-b974-489f-bee3-c763dd16731a")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RO2")
 					(unit 1)
@@ -5057,7 +5057,7 @@
 			(uuid "a007d59d-1080-44ac-a83f-07ae8377dd6f")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR08")
 					(unit 1)
@@ -5144,7 +5144,7 @@
 			(uuid "98b52fbc-03b0-49e7-92b9-b9d520f981d8")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "J7")
 					(unit 1)
@@ -5257,7 +5257,7 @@
 			(uuid "5a3f0017-b5ad-4ee4-b0f5-ba38d9556d5e")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "MOD1")
 					(unit 1)
@@ -5324,7 +5324,7 @@
 			(uuid "88e0c1cc-1749-40e4-aa2a-a5331c89ceff")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RC1")
 					(unit 1)
@@ -5393,7 +5393,7 @@
 			(uuid "9095f2a8-dc34-4280-9bd5-a3bef63944f2")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "R7")
 					(unit 1)
@@ -5459,7 +5459,7 @@
 			(uuid "ca657097-486b-4764-9e42-b40f54098e45")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR05")
 					(unit 1)
@@ -5526,7 +5526,7 @@
 			(uuid "37815913-bd59-4443-a775-da6c364d27ca")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RS2")
 					(unit 1)
@@ -5592,7 +5592,7 @@
 			(uuid "f56a761e-3710-41d7-ab72-ec941eb5a56b")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR010")
 					(unit 1)
@@ -5659,7 +5659,7 @@
 			(uuid "fbd0d716-46b9-4df8-8ac2-48c7d69072b2")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RO1")
 					(unit 1)
@@ -5725,7 +5725,7 @@
 			(uuid "6683418e-207a-4e95-96ab-58987c3bdfe0")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR07")
 					(unit 1)
@@ -5792,7 +5792,7 @@
 			(uuid "8248f648-ea68-48c2-945c-2d19bf0a0fe5")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RS1")
 					(unit 1)
@@ -5859,7 +5859,7 @@
 			(uuid "dd9ff143-5515-4aa5-a436-352da1df0088")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RR3")
 					(unit 1)
@@ -5925,7 +5925,7 @@
 			(uuid "b8c84acd-10b5-45a1-8deb-df1d36cc1cfb")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR01")
 					(unit 1)
@@ -5992,7 +5992,7 @@
 			(uuid "81ec3b8a-b3ca-465a-9847-5f44835ad5a4")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RS5")
 					(unit 1)
@@ -6059,7 +6059,7 @@
 			(uuid "153f7354-fe75-4cd9-8125-7ed34ef33130")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RC2")
 					(unit 1)
@@ -6126,7 +6126,7 @@
 			(uuid "b934e5fd-4311-4bda-8b0f-632fe89ad417")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RI1")
 					(unit 1)
@@ -6209,7 +6209,7 @@
 			(uuid "907c1dec-9e68-4d89-a1d1-dcefadce7d07")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "J1")
 					(unit 1)
@@ -6278,7 +6278,7 @@
 			(uuid "4f809fd4-2270-432e-870e-1d6139d5bd06")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "R9")
 					(unit 1)
@@ -6358,7 +6358,7 @@
 			(uuid "9089cbb5-46c0-486a-a2ff-d3b0695681d6")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "J5")
 					(unit 1)
@@ -6428,7 +6428,7 @@
 			(uuid "6ae585c4-83f3-4fb3-b78a-72bd0b676f6e")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "J2")
 					(unit 1)
@@ -6533,7 +6533,7 @@
 			(uuid "48c68581-8d67-4223-b67e-8213d86d3c06")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "P1")
 					(unit 1)
@@ -6600,7 +6600,7 @@
 			(uuid "e056b70c-6324-440c-a217-1a2084cef716")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RR1")
 					(unit 1)
@@ -6666,7 +6666,7 @@
 			(uuid "1d670578-dde2-47cd-a5d0-9b77f4f72407")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR04")
 					(unit 1)
@@ -6732,7 +6732,7 @@
 			(uuid "c0fb0acc-0031-4b21-9700-a55ef423a261")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR02")
 					(unit 1)
@@ -6799,7 +6799,7 @@
 			(uuid "0cc37efe-dd6b-40b4-9b7a-758c4f71526d")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RD1")
 					(unit 1)
@@ -6866,7 +6866,7 @@
 			(uuid "2f82557b-a761-49a6-930c-544e551d9d12")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RS3")
 					(unit 1)
@@ -6932,7 +6932,7 @@
 			(uuid "ac495412-db84-4675-8037-610cc3d1fb20")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "#PWR09")
 					(unit 1)
@@ -7013,7 +7013,7 @@
 			(uuid "f996fe0f-a8e1-46e5-b8c8-8d1083aa7875")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "J4")
 					(unit 1)
@@ -7082,7 +7082,7 @@
 			(uuid "37db5833-9dad-4114-b09a-529cb7d4a7dd")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "R8")
 					(unit 1)
@@ -7149,7 +7149,7 @@
 			(uuid "b864f2bd-cd1d-4b06-9627-858230ccc93f")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "RD2")
 					(unit 1)
@@ -7236,7 +7236,7 @@
 			(uuid "6b74074d-7a18-4f81-afc0-3205eb167d69")
 		)
 		(instances
-			(project "Nodo_A_HW"
+			(project "ApogeoShield"
 				(path "/1d67b07b-d997-41b7-9a0a-a4770aa9f862"
 					(reference "J6")
 					(unit 1)
