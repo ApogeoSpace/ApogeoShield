@@ -1,4 +1,4 @@
-# Apogeo Space 169 MHz LoRa Shield for Arduino
+# ApogeoShield
 ![](docs/imgs/board.png)
 
 This repository hosts design files for an Arduino shield featuring a HopeRF RFM98 module, optimized for communication at 169 MHz. 
